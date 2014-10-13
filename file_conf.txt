@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-This file is about merge. 
-
-
-My name is Fang Yuan.
-
-
-We have three tema members in the software maintance project tem.
-=======
-Hi, my name is Stephen Mangol.
->>>>>>> origin/StephenLabAssignment
+seans edit
