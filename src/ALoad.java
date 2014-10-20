@@ -1,4 +1,4 @@
-class ALoad extends ByteCodeDecorator {
+public class ALoad extends ByteCodeDecorator {
 
   public void action() {
   }

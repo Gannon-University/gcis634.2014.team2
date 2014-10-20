@@ -1,12 +1,12 @@
-import java.util.Vector;
+import java.util.Queue;
 
 public class ByteCodeDecorator implements ByteCode {
 
-  public ByteCode byteCode;
+	public Queue<String> byteCode;
 
-    public Vector  myByteCode;
-    
-  public void action() {
-  }
+	@Override
+	public void action(int vaule) {
+
+	}
 
 }

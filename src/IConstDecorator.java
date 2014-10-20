@@ -1,12 +1,11 @@
-import java.util.Vector;
+import java.util.Queue;
 
 public class IConstDecorator {
 
-  public ByteCode byteCode;
+	public Queue<String> byteCode;
 
-    public Vector  myByteCodeDecorator;
 
-  public void action() {
-  }
-
+	  public void action() {
+		
+	  }
 }

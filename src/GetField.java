@@ -1,4 +1,4 @@
-class GetField extends ByteCodeDecorator {
+public class GetField extends ByteCodeDecorator {
 
   public void action() {
   }

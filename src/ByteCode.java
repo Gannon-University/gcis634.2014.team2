@@ -1,6 +1,7 @@
 public interface ByteCode {
+	
+  public void action(int vaule);
 
-    
-  public void action();
-
+ 
+  	
 }
