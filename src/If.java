@@ -1,12 +1,16 @@
-import java.util.Vector;
+import java.util.Queue;
 
-public class If {
+public class If extends ByteCodeDecorator{
 
-  public ByteCode byteCode;
+	public Queue<String> byteCode;
 
-    public Vector  myByteCodeDecorator;
+	
 
-  public void action() {
-  }
+	@Override
+	public void action(int vaule) {
+		// TODO Auto-generated method stub
+		
+	}
+
 
 }
