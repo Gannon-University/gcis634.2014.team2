@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 This is Sean!
+=======
+<<<<<<< HEAD
+This file is about merge. 
+
+
+My name is Fang Yuan.
+
+
+We have three tema members in the software maintance project tem.
+=======
+Hi, my name is Stephen Mangol.
+>>>>>>> origin/StephenLabAssignment
+>>>>>>> 686ef841cfbf8e4ac4cb21fd0b96d0620e3ae163
